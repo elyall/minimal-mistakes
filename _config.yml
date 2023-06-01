@@ -133,10 +133,10 @@ author:
     #  url: "https://facebook.com/elyall"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/evlyall"
+    #  url: "https://instagram.com/evlyall"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:evan.lyall@gmail.com
+    #  url: mailto:evan.lyall@gmail.com
 
 # Site Footer
 footer:
